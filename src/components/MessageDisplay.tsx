@@ -1,5 +1,3 @@
-// src/components/MessageDisplay.tsx
-
 import { Message } from "../types";
 import Branch from "./Branch";
 
